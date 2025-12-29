@@ -8,7 +8,7 @@ gem "active_model_serializers"
 gem "bcrypt"
 gem "bootsnap", require: false
 gem "logger"
-gem "pg", "~> 1.1"
+gem "pg", "~> 1.6"
 gem "puma", ">= 5.0"
 gem "rack-cors"
 gem "rails", "~> 8.1.1"
